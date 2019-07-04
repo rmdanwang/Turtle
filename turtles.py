@@ -1,5 +1,3 @@
-# Homework by Ru Meng(Dan) Wang turtles.py
-#need to fix again
 
 import turtle as t
 wn = t.Screen()
