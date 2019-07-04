@@ -1,4 +1,4 @@
-# Homework by Ru Meng(Dan) Wang star.py
+
 import turtle as t
 wn = t.Screen()
 Star = t.Turtle()
