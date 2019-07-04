@@ -1,6 +1,6 @@
 # Turtle
 
-Python Turtle
+Python Turtles Module
 
 (star.py) 
 Create a Python program using turtle graphics that draws a 5-pointed star.
